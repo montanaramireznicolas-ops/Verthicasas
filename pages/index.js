@@ -37,13 +37,13 @@ export default function Home() {
             <div style={{ marginTop: "25px" }}>
               <p style={{ fontWeight: "bold", fontSize: "18px" }}>🌐 Síguenos:</p>
               <div style={{ display: "flex", justifyContent: "center", gap: "15px" }}>
-                <a href="https://www.instagram.com/verthica.sas" target="_blank" rel="noopener noreferrer" style={{ color: "#2e7d32", textDecoration: "none" }}>
+                <a href="https://www.instagram.com/verthica_s.a.s" target="_blank" rel="noopener noreferrer" style={{ color: "#2e7d32", textDecoration: "none" }}>
                   Instagram
                 </a>
-                <a href="https://www.facebook.com/verthica.sas" target="_blank" rel="noopener noreferrer" style={{ color: "#2e7d32", textDecoration: "none" }}>
+                <a href="https://www.facebook.com/verthica sas" target="_blank" rel="noopener noreferrer" style={{ color: "#2e7d32", textDecoration: "none" }}>
                   Facebook
                 </a>
-                <a href="mailto:contacto@verthica.com" style={{ color: "#2e7d32", textDecoration: "none" }}>
+                <a href="mailto:contacto@verthicasas.com" style={{ color: "#2e7d32", textDecoration: "none" }}>
                   Correo
                 </a>
               </div>
@@ -58,3 +58,4 @@ export default function Home() {
     </>
   );
 }
+
